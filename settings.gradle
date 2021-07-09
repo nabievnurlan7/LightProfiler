@@ -1,0 +1,3 @@
+include ':LightProfilerLibrary'
+include ':app'
+rootProject.name = "LightProfilerExample"
